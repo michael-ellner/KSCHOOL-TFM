@@ -3,9 +3,16 @@
 import os
 import json
 
-for geo in ['GB','MX','US','ES']:
-    path = '../twitter_google_v4/Data/JSON/' + geo + '/'
+path0 = '../twitter_google_v6/Data/JSON/'
+
+try:
+    os.makedirs(path0 + '/UNIQUE_TWEETS/')
+except:
+    pass
     
+for geo in ['GB','MX','US','ES']:
+    path = path0 + geo + '/'
+
     for starts_with in set(map(lambda x: x.split('_' + geo)[0], os.listdir(path))):
         prefixed = [filename for filename in os.listdir(path) if filename.startswith(starts_with)]
         
@@ -19,4 +26,4 @@ for geo in ['GB','MX','US','ES']:
                     ids_to_keep+=[tweet['id']]
                     tweets_to_keep+=[tweet]
                     
-        json.dump(tweets_to_keep,open(path+'/../UNIQUE_TWEETS/'+starts_with+'_'+geo+'.json','w'))
+        json.dump(tweets_to_keep,open(path0 + '/UNIQUE_TWEETS/' + starts_with + '_' + geo + '.json', 'w'))
