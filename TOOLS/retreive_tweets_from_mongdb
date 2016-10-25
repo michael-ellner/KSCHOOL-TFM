@@ -1,0 +1,17 @@
+from pymongo import MongoClient
+from pymongo.helpers import DuplicateKeyError
+
+MONGODB_HOST = 'localhost'
+MONGODB_PORT = 27017
+DBS_NAME = 'KSCHOOL_TFM'
+COLLECTION_NAME = 'tweets'
+connection = MongoClient(MONGODB_HOST, MONGODB_PORT) #getting client
+collection = connection[DBS_NAME][COLLECTION_NAME] #getting db
+
+#Retreive all tweets with tag: Jets
+tweets = [tweet for tweet in collection.find({"tag": "Jets"})]   
+tweets
+
+#Retreive text of all tweets with tag: Jets
+tweets_text = [tweet['text'] for tweet in collection.find({"tag": "Jets"}, projection={'text':True,'_id':False})]   
+tweets_text
