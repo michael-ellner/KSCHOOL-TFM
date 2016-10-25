@@ -14,10 +14,11 @@ collection = connection[DBS_NAME][COLLECTION_NAME] #getting db
 
 path = '../twitter_google_v4/Data/JSON/UNIQUE_TWEETS/'
 for fname in os.listdir(path):
+    tag = re.split('_[A-Z]+.json',fname)[0]
     tweets = json.load(open(path+fname)) 
     for tweet in tweets:
-        tweet['_id']=tweet['id'] #use unique id of tweet as id for mongodb
-        tweet['tags']=re.split('_[A-Z]+.json',fname)[0] #create tags key and include google query
+        tweet['_id'.decode()]=tweet['id'] #use unique id of tweet as id for mongodb
+        tweet['tag'.decode()]=tag
         
         try:
             post_id = collection.insert_one(tweet).inserted_id
