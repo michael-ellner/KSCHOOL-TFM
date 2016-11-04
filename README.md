@@ -125,6 +125,8 @@ __This is an overview of the logic behind the algorithms used to make the analys
 
 There are two tools used to visualise the results.
 
+1. __Jupyter notebooks:__ Number 1 tool for Data Science working in python. We show code and plots related to the analysis.     
+
 1. __Web Page ()__ that uses various set of tools available to develop a web applications with analytical capabilities. This are: 
 
 * __Flask:__ for the backend of the web page to deliver services for the html and javascript. Values shown in the frontend are retrieved from here as well there is an API to feed the D3.js objects 
@@ -134,4 +136,4 @@ There are two tools used to visualise the results.
 * __Bootstrap:__ Nice UX and responsive html 
 
 
-2. __Jupyter notebooks:__ Number 1 tool for Data Science working in python. We show code and plots related to the analysis.     
+
