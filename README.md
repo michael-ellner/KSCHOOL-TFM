@@ -5,6 +5,8 @@
 
 ***
 
+LIVE WEB APP: http://cuarta5.ftmc.uam.es:4000/
+
 We developed an application capable of describing certain facts from Google Trend search querys (SQ) with information available on tweets. When someone makes google search what they retrieve is a web page rank ordered by google's algorithm, google trends are interesting because they are trending topics on the world public opinion. Meanwhile twitter is a micro-blog and tweets are status update from personal  accounts, therefor Tweets represent a personal opinió. Until now thing new has been said.  
 
 
