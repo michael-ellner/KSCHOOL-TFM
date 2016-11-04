@@ -103,11 +103,11 @@ date-query and count operation. The represented in a D3.js time graphic.
 * **__Natural Language processing:__** The analysis consisted in a word count,  for every recent tweet related to a selected SQ. Then this word count was plotted in a word cloud were the size of the word depends on the frequency of a word.
 A series of transformations to the text were made before making the word count.
 
-[word_cloud](./images/word_cloud.JPG)
-
 * Filtering stops words, the most common words in a language, that don't add any value to the analysis.
 * Filtering the SQ, obviously the words contained in it will appear more than one time and we are looking for what people say about a determined Google Trend.
 * Filtering URL, hipper links any other character that doesn't mean anything for the human language in Spanish or English. 
+
+![Word Cloud](./images/word_cloud.JPG=100x20)
 
 * **__Geographically locating the tweet:__** behind a tweet there is a user account and most of the accounts have the tweet coordinates blocked but there is a field called “location” where users write their location. This location is written by humans in many different ways. 
 
