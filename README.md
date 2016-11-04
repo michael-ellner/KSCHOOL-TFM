@@ -118,6 +118,8 @@ A series of transformations to the text were made before making the word count.
 			..*Nueva York
 
 So the only way to associate a tuple of coordinate to this kind of information was through mapping any possible name combination for a city using a data set that already the possible values.      
+
+![map](./images/map.JPG)
 		
 __This is an overview of the logic behind the algorithms used to make the analysis, for deeper understanding of them we recommend to dive into the scripts that make the work.__
 
