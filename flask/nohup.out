@@ -1,0 +1,150 @@
+ * Running on http://0.0.0.0:8090/
+92.177.22.227 - - [28/Oct/2016 11:49:36] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+150.244.119.95 - - [28/Oct/2016 14:18:41] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+188.78.168.8 - - [30/Oct/2016 11:31:53] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+188.78.168.8 - - [30/Oct/2016 11:31:53] "GET /favicon.ico HTTP/1.1" 404 -
+188.78.168.8 - - [30/Oct/2016 11:41:58] "GET /api/dataframe?query=Obamacare HTTP/1.1" 200 -
+188.78.168.8 - - [30/Oct/2016 11:43:31] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+188.78.168.8 - - [30/Oct/2016 11:44:07] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+188.78.168.8 - - [30/Oct/2016 11:52:53] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+188.78.168.8 - - [30/Oct/2016 11:56:32] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+188.78.168.8 - - [30/Oct/2016 11:57:56] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+188.78.168.8 - - [30/Oct/2016 11:59:07] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+188.78.168.8 - - [30/Oct/2016 12:04:18] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+188.78.168.8 - - [30/Oct/2016 12:17:24] "GET /api/dataframe?query=Obamacar HTTP/1.1" 200 -
+188.78.168.8 - - [30/Oct/2016 12:18:38] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+188.78.168.8 - - [30/Oct/2016 12:20:34] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+188.78.168.8 - - [30/Oct/2016 12:22:21] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+188.78.168.8 - - [30/Oct/2016 12:25:28] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+188.78.168.8 - - [30/Oct/2016 12:26:45] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+188.78.168.8 - - [30/Oct/2016 12:27:42] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+188.78.168.8 - - [30/Oct/2016 12:28:34] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+188.78.168.8 - - [30/Oct/2016 12:31:02] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+188.78.168.8 - - [30/Oct/2016 12:33:39] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+188.78.168.8 - - [30/Oct/2016 12:34:41] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+188.78.168.8 - - [30/Oct/2016 12:37:05] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+188.78.168.8 - - [30/Oct/2016 13:01:36] "GET /api/dataframe?query= HTTP/1.1" 200 -
+188.78.168.8 - - [30/Oct/2016 13:06:07] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+188.78.168.8 - - [30/Oct/2016 13:06:21] "GET /api/dataframe?query=Obamacare HTTP/1.1" 200 -
+188.78.168.8 - - [30/Oct/2016 13:06:47] "GET /api/dataframe?query=Obamacare HTTP/1.1" 200 -
+188.78.168.8 - - [30/Oct/2016 13:07:32] "GET /api/dataframe?query=AAPL HTTP/1.1" 200 -
+188.78.168.8 - - [30/Oct/2016 13:07:46] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+188.78.168.8 - - [30/Oct/2016 13:08:10] "GET /api/dataframe?query=Obamacare HTTP/1.1" 200 -
+188.78.168.8 - - [30/Oct/2016 13:10:46] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [30/Oct/2016 17:03:00] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [30/Oct/2016 17:03:12] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [30/Oct/2016 17:03:22] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [30/Oct/2016 17:09:14] "GET /api/dataframe?query=Obamacare HTTP/1.1" 200 -
+92.177.22.227 - - [30/Oct/2016 17:10:15] "GET /api/dataframe?query=Obamacare HTTP/1.1" 200 -
+92.177.22.227 - - [30/Oct/2016 17:11:18] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [30/Oct/2016 17:15:48] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [30/Oct/2016 17:25:33] "GET /api/dataframe?query=Obamacare HTTP/1.1" 200 -
+92.177.22.227 - - [30/Oct/2016 17:25:54] "GET /api/dataframe?query=Obamacare&lang=es HTTP/1.1" 200 -
+92.177.22.227 - - [30/Oct/2016 19:23:56] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [30/Oct/2016 19:25:11] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [30/Oct/2016 19:25:57] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [30/Oct/2016 19:26:10] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [30/Oct/2016 21:41:35] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [30/Oct/2016 21:44:13] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [30/Oct/2016 21:44:42] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [30/Oct/2016 21:44:58] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+37.12.102.86 - - [31/Oct/2016 11:27:45] "GET /api/dataframe?query=Obamacare HTTP/1.1" 200 -
+37.12.102.86 - - [31/Oct/2016 11:28:30] "GET /api/dataframe?query=Obamacare HTTP/1.1" 200 -
+37.12.102.86 - - [31/Oct/2016 11:29:37] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+37.12.102.86 - - [31/Oct/2016 11:30:26] "GET /api/dataframe?query=Halloween HTTP/1.1" 200 -
+37.12.102.86 - - [31/Oct/2016 11:31:58] "GET /api/dataframe?query=Halloween HTTP/1.1" 200 -
+37.12.102.86 - - [31/Oct/2016 11:38:13] "GET /api/dataframe?query=Halloween HTTP/1.1" 200 -
+37.12.102.86 - - [31/Oct/2016 11:40:57] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+37.12.102.86 - - [31/Oct/2016 11:45:07] "GET /api/dataframe?query=Obamacare HTTP/1.1" 200 -
+37.12.102.86 - - [31/Oct/2016 11:48:21] "GET /api/dataframe?query=Halloween HTTP/1.1" 200 -
+37.12.102.86 - - [31/Oct/2016 11:48:29] "GET /api/dataframe?query=Halloween HTTP/1.1" 200 -
+92.177.22.227 - - [31/Oct/2016 11:50:31] "GET /api/dataframe?query=Halloween HTTP/1.1" 200 -
+92.177.22.227 - - [31/Oct/2016 11:51:00] "GET /api/dataframe?query=Halloween HTTP/1.1" 200 -
+92.177.22.227 - - [31/Oct/2016 11:51:26] "GET /api/dataframe?query=Halloween HTTP/1.1" 200 -
+92.177.22.227 - - [31/Oct/2016 11:52:12] "GET /api/dataframe?query=Halloween HTTP/1.1" 200 -
+92.177.22.227 - - [31/Oct/2016 11:53:40] "GET /api/dataframe?query=Halloween HTTP/1.1" 200 -
+92.177.22.227 - - [31/Oct/2016 11:54:16] "GET /api/dataframe?query=Halloween HTTP/1.1" 200 -
+37.12.102.86 - - [31/Oct/2016 11:56:01] "GET /api/dataframe?query=Halloween HTTP/1.1" 200 -
+37.12.102.86 - - [31/Oct/2016 11:56:11] "GET /api/dataframe?query=Halloween HTTP/1.1" 200 -
+37.12.102.86 - - [31/Oct/2016 11:56:11] "GET /api/dataframe?query=Halloween HTTP/1.1" 200 -
+Traceback (most recent call last):
+  File "/home/michael/anaconda/lib/python2.7/SocketServer.py", line 596, in process_request_thread
+37.12.102.86 - - [31/Oct/2016 11:56:11] "GET /api/dataframe?query=Halloween HTTP/1.1" 200 -
+    self.finish_request(request, client_address)
+  File "/home/michael/anaconda/lib/python2.7/SocketServer.py", line 331, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/home/michael/anaconda/lib/python2.7/SocketServer.py", line 654, in __init__
+    self.finish()
+  File "/home/michael/anaconda/lib/python2.7/SocketServer.py", line 713, in finish
+    self.wfile.close()
+  File "/home/michael/anaconda/lib/python2.7/socket.py", line 283, in close
+    self.flush()
+  File "/home/michael/anaconda/lib/python2.7/socket.py", line 307, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+error: [Errno 32] Broken pipe
+37.12.102.86 - - [31/Oct/2016 11:56:39] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+37.12.102.86 - - [31/Oct/2016 12:00:32] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+37.12.102.86 - - [31/Oct/2016 12:02:22] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+37.12.102.86 - - [31/Oct/2016 12:04:48] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+188.78.168.8 - - [31/Oct/2016 17:18:27] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+188.78.168.8 - - [31/Oct/2016 17:18:27] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [31/Oct/2016 19:49:39] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [31/Oct/2016 19:54:30] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [31/Oct/2016 19:54:39] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [31/Oct/2016 20:04:00] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [31/Oct/2016 20:04:14] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [31/Oct/2016 20:04:39] "GET /api/dataframe?query=Obamacare HTTP/1.1" 200 -
+92.177.22.227 - - [31/Oct/2016 20:06:33] "GET /api/dataframe?query=Obamacare HTTP/1.1" 200 -
+92.177.22.227 - - [31/Oct/2016 20:07:25] "GET /api/dataframe?query=Obamacare HTTP/1.1" 200 -
+92.177.22.227 - - [31/Oct/2016 20:07:25] "GET /favicon.ico HTTP/1.1" 404 -
+92.177.22.227 - - [31/Oct/2016 20:07:25] "GET /favicon.ico HTTP/1.1" 404 -
+92.177.22.227 - - [31/Oct/2016 20:10:12] "GET /api/dataframe?query=Obamacare HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:8090/
+92.177.22.227 - - [01/Nov/2016 19:15:55] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [01/Nov/2016 19:15:56] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [01/Nov/2016 19:15:58] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [01/Nov/2016 19:16:10] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [01/Nov/2016 19:16:26] "GET /api/dataframe?query=Obamacare HTTP/1.1" 200 -
+92.177.22.227 - - [01/Nov/2016 19:16:49] "GET /api/dataframe?query=Obamacare&lang=es HTTP/1.1" 200 -
+92.177.22.227 - - [01/Nov/2016 19:17:00] "GET /api/dataframe?query=PSEO&lang=es HTTP/1.1" 200 -
+92.177.22.227 - - [01/Nov/2016 19:17:07] "GET /api/dataframe?query=PSOE&lang=es HTTP/1.1" 200 -
+92.177.22.227 - - [01/Nov/2016 19:17:18] "GET /api/dataframe?query=PSOE&lang=en HTTP/1.1" 200 -
+92.177.22.227 - - [01/Nov/2016 19:17:50] "GET /api/dataframe?query=PSOE&lang=en&scale=log HTTP/1.1" 200 -
+92.177.22.227 - - [01/Nov/2016 19:18:06] "GET /api/dataframe?query=PSOE&lang=en&scale=sqtr HTTP/1.1" 200 -
+92.177.22.227 - - [01/Nov/2016 19:20:23] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [01/Nov/2016 19:20:25] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [01/Nov/2016 19:20:56] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [01/Nov/2016 19:21:02] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [01/Nov/2016 19:21:09] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [01/Nov/2016 19:21:12] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [01/Nov/2016 19:22:11] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [01/Nov/2016 19:22:16] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [01/Nov/2016 20:13:13] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [01/Nov/2016 20:18:21] "GET /api/dataframe?query=PSOE HTTP/1.1" 200 -
+92.177.22.227 - - [01/Nov/2016 20:18:21] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+Traceback (most recent call last):
+  File "/home/michael/anaconda/lib/python2.7/SocketServer.py", line 596, in process_request_thread
+92.177.22.227 - - [01/Nov/2016 20:18:21] "GET /api/dataframe?query=Obamacare HTTP/1.1" 200 -
+    self.finish_request(request, client_address)
+  File "/home/michael/anaconda/lib/python2.7/SocketServer.py", line 331, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/home/michael/anaconda/lib/python2.7/SocketServer.py", line 654, in __init__
+    self.finish()
+  File "/home/michael/anaconda/lib/python2.7/SocketServer.py", line 713, in finish
+    self.wfile.close()
+  File "/home/michael/anaconda/lib/python2.7/socket.py", line 283, in close
+    self.flush()
+  File "/home/michael/anaconda/lib/python2.7/socket.py", line 307, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+error: [Errno 32] Broken pipe
+92.177.22.227 - - [01/Nov/2016 20:19:07] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [01/Nov/2016 20:24:49] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [01/Nov/2016 20:28:56] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [01/Nov/2016 20:29:12] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [01/Nov/2016 20:30:09] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [01/Nov/2016 20:31:33] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [01/Nov/2016 20:33:23] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [01/Nov/2016 20:33:54] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [01/Nov/2016 20:35:38] "GET /api/dataframe?query=hora HTTP/1.1" 200 -
+92.177.22.227 - - [01/Nov/2016 20:36:54] "GET /api/dataframe?query=Jets HTTP/1.1" 200 -
+92.177.22.227 - - [01/Nov/2016 20:38:05] "GET /api/dataframe?query=Jamie%20Collins HTTP/1.1" 200 -
