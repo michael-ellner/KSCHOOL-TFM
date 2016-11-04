@@ -1,0 +1,13 @@
+Wordcloud:
+Contralar fecha desde que se comienza a construir el word_cloud
+
+Fijos:
+Traer todos los disponibles en google_trend 
+
+
+Fechas de las consultas (trunc del dia) (google_trends)
+
+Truncar Fechas
+
+11) Objeto nuevo
+Grafico de tiempo con el count de los tweets

@@ -1,0 +1,42 @@
+HOLA
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		var elid= '507185938620219395';
+
+		headers = {
+			'Access-Control-Allow-Origin': "*",
+			'Access-Control-Expose-Headers': "Access-Control-Allow-Origin",
+			"Access-Control-Allow-Headers": "Origin, X-Requested-With, Content-Type, Accept",
+		}; 
+
+		$.ajax({
+			url: 'https://api.twitter.com/1.1/statuses/oembed.json',
+			type: 'GET',
+			dataType: 'json',
+			data: {id: elid},
+			//beforeSend: setHeader,
+			crossDomain: true,
+		})
+		.done(function(data) {
+			console.log("success");
+			console.log(data);
+		})
+		.fail(function() {
+			console.log("error");
+		})
+		.always(function() {
+			console.log("complete");
+		});
+
+		function setHeader(xhr) {
+			xhr.setRequestHeader('Access-Control-Allow-Origin', 'http://cuarta5.ftmc.uam.es:8000');
+		}
+
+		
+		
+	});
+	
+	
+</script>
