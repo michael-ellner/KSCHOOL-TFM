@@ -107,7 +107,7 @@ A series of transformations to the text were made before making the word count.
 * Filtering the SQ, obviously the words contained in it will appear more than one time and we are looking for what people say about a determined Google Trend.
 * Filtering URL, hipper links any other character that doesn't mean anything for the human language in Spanish or English. 
 
-![Word Cloud](./images/word_cloud.JPG=100x20)
+![Word_Cloud](./images/word_cloud.JPG)
 
 * **__Geographically locating the tweet:__** behind a tweet there is a user account and most of the accounts have the tweet coordinates blocked but there is a field called “location” where users write their location. This location is written by humans in many different ways. 
 
