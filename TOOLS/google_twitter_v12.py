@@ -82,14 +82,14 @@ def main(argv):
 
     
     #google auth
-    google_username = "tfm.michael.juan@gmail.com"
-    google_password = "python123"
+    google_username = ##############################
+    google_password = ##############################
     pytrend = TrendReq(google_username, google_password, custom_useragent='My Pytrends Script')
     #twitter auth
-    consumer_key="5Pne84MXBvsVwRFJfJzuBVP8V"
-    consumer_secret="qOf1JKzIZLkoYaw11yH1MZ8sg5BQZ8CpSK00u1bghTm3LifDDA"
-    access_token="789145768254898176-sLNeXABnmlpCZpDiO3CHy7rFLvHnBqR"
-    access_token_secret="SXeYbfcOe22BEa8AU8B3q3b0zS0SOLGxcF3PEjFd4UoCM"
+    consumer_key=##############################
+    consumer_secret=##############################
+    access_token=##############################
+    access_token_secret=##############################
 
 
 
